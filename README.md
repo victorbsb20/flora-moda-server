@@ -13,7 +13,7 @@
    - Build Command: npm install
    - Start Command: npm start
 5. Em "Environment Variables" adicione:
-   - MP_ACCESS_TOKEN = APP_USR-81765187002129-121010-dd94b050dd63edccac8c6b56ca3afd92-2711363613
+   - MP_ACCESS_TOKEN = TEST-6116263680994569-010114-ad994d762006e5c0ec17930634cf3cce-2711363613
 6. Clique em "Create Web Service"
 7. Aguarde o deploy (2-3 minutos)
 8. Copie a URL gerada (ex: https://flora-moda-server.onrender.com)
